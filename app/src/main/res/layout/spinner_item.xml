@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemSpinnerText"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingLeft="6dip"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:textAppearance="@color/accent_material_light"
+    android:textColor="@color/accent_material_light"
+    android:textColorHighlight="@color/accent_material_light"
+    android:textColorHint="@color/accent_material_light"
+    android:textColorLink="@color/accent_material_light" />
